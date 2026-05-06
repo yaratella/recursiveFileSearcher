@@ -11,5 +11,11 @@ it works...for now
 ___________________________________________________________________________________________________________________________________________________________
 ### How to Test + Run the Code
 ```bash
-javac fileSearch.java && java fileSearch
+javac fileSearch.java
 ```
+then...
+
+```java
+java fileSearch
+```
+<sub><sup>Let me know if it works...😅</sup></sub>
