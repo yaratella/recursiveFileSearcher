@@ -1,4 +1,4 @@
-### recursion-practice 🌀
+### Recursion-Practice 🌀
 
 just a spot for me to dump recursive java logic as i learn it. 
 ________________________________________________________________________________________________________________________________________________
